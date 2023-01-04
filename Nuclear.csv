@@ -1,0 +1,13 @@
+Entity,gco_per_kwh
+Coal,820
+Biomass-co-firing,740
+Natural gas,490
+Biomass,230
+Solar PV-utility,48
+Solar PV-roof,41
+Geothermal,38
+Solar-concentrated,27
+Hydropower,24
+Nuclear,12
+Wind offshore,12
+Wind onshore,11
